@@ -119,7 +119,6 @@ a {
     border-radius: 100px;
     padding-block: 0.7em;
     font-size: var(--fs-p-lg);
-    /* max-width: 375px; */
 }
 
 .btn:hover {
